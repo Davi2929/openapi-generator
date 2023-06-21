@@ -2,7 +2,8 @@
   caption: "Aalborg University"
   image: "img/companies/aalborg_university.png"
   infoLink: "https://www.aau.dk/"
-  pinned: false
+  pinned: opennet
+
 -
   caption: "Adaptant Solutions AG"
   image: "img/companies/adaptant.png"
